@@ -10,6 +10,8 @@ mots7.txt: text file with French words (from https://www.apprendre-en-ligne.net/
 # Help
 From the GUI you can read How to play? as well as copyright and license information.
 
-Example of game (French)
+ # Example of game (French)
+ 
 ![image](https://user-images.githubusercontent.com/108087986/204912019-545fa47e-5464-4f6b-a920-e0ebd5d28baf.png)
+
 ![image](https://user-images.githubusercontent.com/108087986/204912122-36240087-d974-4676-9d0b-4e299bb2d4b5.png)
