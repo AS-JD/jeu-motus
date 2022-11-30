@@ -2,8 +2,8 @@
 Code written in python3 with graphics user interface (GUI) using Tkinter.
 # Repository content
 To play the game save the following files in the same directory.
-asmamotus.py: Python script
-mots7.txt: text file with French words (from https://www.apprendre-en-ligne.net/pj/pendu/index.html )
+ --asmamotus.py: Python script
+--mots7.txt: text file with French words (from https://www.apprendre-en-ligne.net/pj/pendu/index.html )
 
 # Tkinter interface
 ![image](https://user-images.githubusercontent.com/108087986/204911735-b8f16549-c1f4-455f-a6a3-d3cfcb0d9760.png)
